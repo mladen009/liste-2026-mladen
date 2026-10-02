@@ -10,6 +10,8 @@ namespace liste_2026_mladen
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("mladen kostadinov");
+            Console.WriteLine("Čenta republika");
         }
     }
 }
