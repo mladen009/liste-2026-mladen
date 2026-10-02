@@ -13,6 +13,7 @@ namespace liste_2026_mladen
             Console.WriteLine("mladen kostadinov");
             Console.WriteLine("Čenta republika");
             Console.WriteLine("DR Čenta");
+            Console.Write(" i kraljevina"); 
         }
     }
 }
